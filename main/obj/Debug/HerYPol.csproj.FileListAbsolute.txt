@@ -1,0 +1,20 @@
+C:\Users\user\Source\Repos\HerYPol\HerYPol\bin\Debug\HerYPol.exe.config
+C:\Users\user\Source\Repos\HerYPol\HerYPol\bin\Debug\HerYPol.exe
+C:\Users\user\Source\Repos\HerYPol\HerYPol\bin\Debug\HerYPol.pdb
+C:\Users\user\Source\Repos\HerYPol\HerYPol\obj\Debug\HerYPol.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\HerYPol\HerYPol\obj\Debug\HerYPol.Form1.resources
+C:\Users\user\Source\Repos\HerYPol\HerYPol\obj\Debug\HerYPol.Properties.Resources.resources
+C:\Users\user\Source\Repos\HerYPol\HerYPol\obj\Debug\HerYPol.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\HerYPol\HerYPol\obj\Debug\HerYPol.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\HerYPol\HerYPol\obj\Debug\HerYPol.exe
+C:\Users\user\Source\Repos\HerYPol\HerYPol\obj\Debug\HerYPol.pdb
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\3ER SEMESTRE\ESTRUCTURA DE DATOS\Practico Herencia y Polimorfismo\HerYPol\bin\Debug\HerYPol.exe.config
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\3ER SEMESTRE\ESTRUCTURA DE DATOS\Practico Herencia y Polimorfismo\HerYPol\bin\Debug\HerYPol.exe
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\3ER SEMESTRE\ESTRUCTURA DE DATOS\Practico Herencia y Polimorfismo\HerYPol\bin\Debug\HerYPol.pdb
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\3ER SEMESTRE\ESTRUCTURA DE DATOS\Practico Herencia y Polimorfismo\HerYPol\obj\Debug\HerYPol.csprojAssemblyReference.cache
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\3ER SEMESTRE\ESTRUCTURA DE DATOS\Practico Herencia y Polimorfismo\HerYPol\obj\Debug\HerYPol.Form1.resources
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\3ER SEMESTRE\ESTRUCTURA DE DATOS\Practico Herencia y Polimorfismo\HerYPol\obj\Debug\HerYPol.Properties.Resources.resources
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\3ER SEMESTRE\ESTRUCTURA DE DATOS\Practico Herencia y Polimorfismo\HerYPol\obj\Debug\HerYPol.csproj.GenerateResource.cache
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\3ER SEMESTRE\ESTRUCTURA DE DATOS\Practico Herencia y Polimorfismo\HerYPol\obj\Debug\HerYPol.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\3ER SEMESTRE\ESTRUCTURA DE DATOS\Practico Herencia y Polimorfismo\HerYPol\obj\Debug\HerYPol.exe
+C:\Users\user\Documents\Usuario 3 - Carlos Villalba\EMI\3ER SEMESTRE\ESTRUCTURA DE DATOS\Practico Herencia y Polimorfismo\HerYPol\obj\Debug\HerYPol.pdb
